@@ -1,0 +1,52 @@
+.top{
+
+
+	color:#ffffff;
+
+}
+.o{
+	background:#28bb99;
+}
+.name{
+	    text-align: center;
+    font-size: 60px;
+    color: white;
+
+}
+.e{
+	   text-align: center;
+    margin-top: 38px;
+    color: white;
+    padding-bottom: 51px;
+}
+.p{
+	text-align: center;
+    font-size: 45px;
+    color: #00008B;
+}
+.abo{
+	background:#28bb99;
+	color: white;
+	padding-bottom: 48px;
+}
+.for{
+	    margin-left: 323px;
+    padding-top: 24px;
+}
+.in{
+	border-style: hidden;
+    border-bottom-style: groove;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: grey;
+
+}
+
+.foo{
+	    padding-left: 300px;
+    padding-top: 20px;
+    color: white;
+    margin-top: 22px;
+    background-color: #6c757d!important;
+    padding-bottom: 20px;
+}
